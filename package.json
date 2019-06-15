@@ -1,0 +1,27 @@
+{
+  "name": "beziyay",
+  "version": "0.0.1",
+  "description": "Utilities for creating smoothly connected quadratic bezier curves ",
+  "main": "index.js",
+  "scripts": {
+    "test": "textcmd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thelucre/beziyay.git"
+  },
+  "keywords": [
+    "svg",
+    "bezier",
+    "canvas",
+    "drawing",
+    "graphics",
+    "curves"
+  ],
+  "author": "Eric Howard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thelucre/beziyay/issues"
+  },
+  "homepage": "https://github.com/thelucre/beziyay#readme"
+}
