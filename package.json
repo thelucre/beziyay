@@ -2,7 +2,10 @@
   "name": "beziyay",
   "version": "0.0.1",
   "description": "Utilities for creating smoothly connected quadratic bezier curves ",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "files": [
+    "dist/index.js"
+  ],
   "scripts": {
     "build": "webpack --mode production",
     "test": "mocha"
