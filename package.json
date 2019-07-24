@@ -1,6 +1,6 @@
 {
   "name": "beziyay",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Utilities for creating smoothly connected quadratic bezier curves ",
   "main": "dist/index.js",
   "files": [
