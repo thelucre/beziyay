@@ -1,6 +1,6 @@
 {
   "name": "beziyay",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Utilities for creating smoothly connected quadratic bezier curves ",
   "main": "dist/index.js",
   "files": [
@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/thelucre/beziyay#readme",
   "devDependencies": {
-    "@babel/core": "^7.4.5",
+    "@babel/core": "7.5.5",
     "@babel/preset-env": "^7.5.5",
     "babel-loader": "^8.0.6",
     "chai": "^4.2.0",
